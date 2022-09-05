@@ -1,0 +1,6 @@
+spring:
+  profile: 
+    message: Welcome to the Testing environment
+  
+server:
+  port: 8890

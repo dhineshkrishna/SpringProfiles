@@ -1,0 +1,7 @@
+spring:
+  profile:
+    message: Welcome to the Production environment
+  
+## profile specific port.
+server:
+  port: 8889

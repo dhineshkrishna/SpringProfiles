@@ -1,0 +1,6 @@
+spring:
+  profile:
+    message: Welcome to the Development environment
+server:
+  port: 8888
+ 
